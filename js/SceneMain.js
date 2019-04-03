@@ -1,4 +1,4 @@
-// SceneMain.js 
+// SceneMain.js Diego Lezcano
 class SceneMain extends Phaser.Scene {
     
     constructor() {
